@@ -1,0 +1,22 @@
+{
+  "name": "0x00-webpack",
+  "version": "1.0.0",
+  "description": "Webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alban-okoby/alx-react/0x00-Webpack"
+  },
+  "author": "Alban Okoby",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "jquery": "^3.7.1"
+  }
+}
